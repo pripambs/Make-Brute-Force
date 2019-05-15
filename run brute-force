@@ -1,0 +1,1 @@
+python sshBrute -H 192.168.1.100 -u root -F passwords.txt
